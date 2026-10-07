@@ -1,4 +1,4 @@
-# Stock-Price-Forcasting
+# Intelligent Stock Trend & Price Forecasting Suite
 Project involves predicting the future prices of stocks using historical data. This project can be implemented using various machine learning techniques such as time series analysis, regression models, and even deep learning models like LSTMs (Long Short-Term Memory networks).
 
 Concepts:
